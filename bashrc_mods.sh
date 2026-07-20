@@ -84,6 +84,7 @@ alias gic='git clone'
 alias tma='tmux attach -t'
 alias tml='tmux ls'
 alias tmn='tmux new -s'
+alias bc='bc -l'
 
 # HIST CONTROL
 HISTSIZE=1000
